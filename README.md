@@ -33,8 +33,8 @@ It extracts book data (title and price) from [Books to Scrape](https://books.tos
 # Getting Started
 
 1. Clone or download this repository:
-   git clone https://github.com/your-username/DynamicWebScraperExporttoExcel.git
-   cd DynamicWebScraperExporttoExcel
+   - git clone (https://github.com/sachuki4207l/Dynamic-Web-Scraper-Export-to-Excel.git)
+   - cd DynamicWebScraperExporttoExcel
 
 
 # Install Dependencies
